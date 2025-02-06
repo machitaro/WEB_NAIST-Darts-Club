@@ -51,7 +51,7 @@ export const Contact = ({ menuItems }) => {
       id: 'message',
       type: 'textarea',
       label: 'お問い合わせ内容',
-      placeholder: 'お問い合わせ内容を入力してください\n次の活動日はいつ〜？やサークルコラボの企画相談をしたい！などなど',
+      placeholder: 'お問い合わせ内容を入力してください\n次の活動日はいつ〜？やコラボイベントの相談がしたい！などなど',
       required: true
     }
   ];
